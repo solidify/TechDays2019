@@ -5,6 +5,7 @@ Content from TechDays 2019
 ## Resources
 
 ### Session - Allt du behöver veta om Azure DevOps
+* [Presentation](https://github.com/solidify/TechDays2019/blob/master/TechDays2019%20-%20Allt%20du%20beh%C3%B6ver%20veta%20om%20Azure%20DevOps.pdf)
 * [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
 * [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
 * [Hands-on labs](https://www.azuredevopslabs.com/)
