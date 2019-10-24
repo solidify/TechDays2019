@@ -15,6 +15,7 @@ Content from TechDays 2019
 * [SonarQube](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarqube)
 * [Bravo Notes](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)
 * [Feature timeline and Epic Roadmap](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.workitem-feature-timeline-extension)
+* [Solidify @Scale](https://solidify.se/@scale)
 
 ### VS Code extensioner
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
